@@ -1,16 +1,16 @@
 # Función para realizar una suma
-def suma(a, b):
-    return a + b
+def suma(num1, num2):
+    return num1 + num2
 # Función para realizar una resta
-def resta(a, b):
-    return a - b
+def resta(num1, num2):
+    return num1 - num2
 
 # Función para realizar una multiplicación
-def multiplicacion(a, b):
-    return a * b
+def multiplicacion(num1, num2):
+    return num1 * num2
 
 # Función para realizar una división
-def division(a, b):
-    if b == 0:
+def division(num1, num2):
+    if num2 == 0:
         return "Error: División por cero"
-    return a / b
+    return num1 / num2

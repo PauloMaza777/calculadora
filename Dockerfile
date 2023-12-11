@@ -15,4 +15,4 @@ RUN pip install -r requirements.txt
 
 
 #inicia el servico httpd con argumentos -D FOREGROUND
-CMD  CMD ["python", "app.py"]
+CMD   ["python", "app.py"]

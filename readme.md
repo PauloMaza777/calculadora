@@ -4,7 +4,7 @@ Este proyecto implementa una calculadora básica.
 
 ### Estructura del Proyecto
 
-- `calculadora.py`: Contiene las funciones de la calculadora y la configuración de Flask.
+- `calculadora.py`: Contiene las funciones de la calculadora.
 - `Dockerfile`: Archivo de configuración para construir la imagen de Docker.
 - `docker-compose.yml`: Archivo de configuración de Docker Compose.
 
